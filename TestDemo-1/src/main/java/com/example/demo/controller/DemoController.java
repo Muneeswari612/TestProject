@@ -8,7 +8,7 @@ public class DemoController {
 
 @RequestMapping("/hello")
 public String sayHello() {
-	return "Hello SpringBoot App";
+	return "Hello SpringBoot Application";
 }
 
 }
